@@ -1,0 +1,12 @@
+[
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+	{ "keys": ["ctrl+shift+b"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+c"], "command": "show_panel", 
+	  "args": {"panel": "console", "toggle": true}
+	},
+	{ "keys": ["ctrl+shift+g"], "command": "toggle_status_bar" },
+	{ "keys": ["f9"], "command": "toggle_breakpoint" },
+	{ "keys": ["ctrl+f9"], "command": "goto_breakpoint" },
+
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/User/newlinenoindent.sublime-macro"} },
+]
