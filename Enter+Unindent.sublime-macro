@@ -1,0 +1,17 @@
+[
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "unindent"
+	},
+	{
+		"args": null,
+		"command": "unindent"
+	}
+]
