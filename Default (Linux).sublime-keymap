@@ -8,5 +8,5 @@
 	{ "keys": ["f9"], "command": "toggle_breakpoint" },
 	{ "keys": ["ctrl+f9"], "command": "goto_breakpoint" },
 
-	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/User/newlinenoindent.sublime-macro"} },
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Enter+Unindent.sublime-macro"} },
 ]
