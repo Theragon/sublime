@@ -7,11 +7,10 @@
 		"command": "insert"
 	},
 	{
-		"args": null,
-		"command": "unindent"
-	},
-	{
-		"args": null,
-		"command": "unindent"
+		"args":
+		{
+			"forward": false
+		},
+		"command": "delete_word"
 	}
 ]

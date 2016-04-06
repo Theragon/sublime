@@ -1,0 +1,18 @@
+{
+	"anaconda_linter_show_errors_on_save": true,
+	"anaconda_linting_behaviour": "always",
+	"anaconda_gutter_marks": false,
+	"anaconda_gutter_theme": "dark",
+	"anaconda_linter_mark_style": "none",
+	"anaconda_linter_underlines": true,
+	"validate_imports": true,
+	"pep8_ignore":
+	[
+		"W191",
+		"E202",
+		"E265",
+		"E303",
+		"E701",
+		"E402",
+	]
+}

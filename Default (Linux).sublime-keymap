@@ -9,4 +9,12 @@
 	{ "keys": ["ctrl+f9"], "command": "goto_breakpoint" },
 
 	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Enter+Unindent.sublime-macro"} },
+
+	{ "keys": ["shift+delete"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["alt+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Kill_subword.sublime-macro"} },
+	{ "keys": ["ctrl+shift+k"], "command": "cut" },
+	
+	{ "keys": ["alt+shift+s"], "command": "auto_save" },
+	/*{ "keys": ["ctrl+shift+m"], "command": "expand_selection", "args": {"to": "brackets"} },*/
+	{ "keys": ["ctrl+shift+m"], "command": "expand_selection", "args": {"to": "scope"} },
 ]
